@@ -10,4 +10,4 @@ namespace shapes {
         ~Circle();
         double getRadius() const;
     };
-};
+}

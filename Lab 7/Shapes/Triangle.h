@@ -12,4 +12,4 @@ namespace shapes {
         double getBase() const;
         double getHeight() const;
     };
-};
+}

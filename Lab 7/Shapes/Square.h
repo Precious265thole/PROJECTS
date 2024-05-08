@@ -10,6 +10,4 @@ namespace shapes {
         ~Square();
         double getSideLength() const;
     };
-};
-
-
+}
